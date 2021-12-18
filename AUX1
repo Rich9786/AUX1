@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",11/10/2021 - AUX
-http://tecnotv.club/octu11/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",17/10/2021 - AUX
+http://tecnotv.club/dic17/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
 
 
 
@@ -15,7 +15,10 @@ https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?Pl
 
 
 
-
+#EXTINF:-1 group-title="TV PREMIUM",TNT Series HD
+http://tecnotv.club/dic17/lista1.php?c=a0bf
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://51.222.152.107:81/posters/1502754343528.jpg" group-title="TV PREMIUM 2",TNT Series
+http://tecnotv.club/dic17/smartv2.php?c=3131
 
 
 
