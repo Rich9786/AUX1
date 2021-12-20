@@ -13,12 +13,7 @@ http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 tvg-id="115395" tvg-name="AC Vision" tvg-logo="https://lh3.googleusercontent.com/-PcW7rdALGRs/X6mvq9Fen5I/AAAAAAAA7Jg/d2M4m6dlgoQ10S2Oy3j-B_haDgl6-6qOwCK8BGAsYHg/s0/2020-11-09.png", AC Vision
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES
-http://tecnotv.club/dic17/geomex.php?c=71&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",TNT Series HD
-http://tecnotv.club/dic17/lista1.php?c=a0bf
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://51.222.152.107:81/posters/1502754343528.jpg" group-title="TV PREMIUM 2",TNT Series HD
-http://tecnotv.club/dic17/smartv2.php?c=3131
+
 
 
 
