@@ -29,14 +29,14 @@ http://127.0.0.1
 
 
 
-#EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/18760b62-926b-4c2f-a0d0-42a6420db7c6" group-title="MEXICO",AZTECA UNO HD
-http://tecnotv.club/2ene/geomex.php?c=7&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/18760b62-926b-4c2f-a0d0-42a6420db7c6" group-title="MEXICO",AZTECA UNO 
+
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO
-http://tecnotv.club/2ene/geomex.php?c=27&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS HD
-http://tecnotv.club/2ene/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF7KGLL1JSQ2Bn7qmR8diiBAEuRzopLsF9YaqTIXshLqBzkthvkg2NEdwFMFkXWTQM_0&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS 
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS
-http://tecnotv.club/2ene/geomex.php?c=17&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) 1
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) 2
@@ -45,58 +45,58 @@ http://tecnotv.club/2ene/geomex.php?c=2274&p=3&k=tecnotv&f=.m3u8
 https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101690" tvg-name="TV4 Deportes" tvg-logo="https://lh3.googleusercontent.com/-BjGOcjKFRdI/XpZoDfSoLmI/AAAAAAAAx3k/gTlVrDhiO6gAf3yIV6JEk3fa6qFhcuoLQCK8BGAsYHg/s0/2020-04-14.png" group-title="MEXICO", TV4 3 (4.3) 
 https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1333859673888464901/_0-cae_U_400x400.jpg" group-title="MEXICO",CANAL 5 HD
-http://tecnotv.club/2ene/geomex.php?c=1785&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1333859673888464901/_0-cae_U_400x400.jpg" group-title="MEXICO",CANAL 5 
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5
-http://tecnotv.club/2ene/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://pkimgcdn.peekyou.com/5530e80845d3fe98a4570ea20553436a.jpeg" group-title="MEXICO",AZTECA 7 HD
-http://tecnotv.club/2ene/geomex.php?c=317&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://pkimgcdn.peekyou.com/5530e80845d3fe98a4570ea20553436a.jpeg" group-title="MEXICO",AZTECA 7 HD (2) 
-http://tecnotv.club/2ene/geomex.php?c=322&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 logo="https://pkimgcdn.peekyou.com/5530e80845d3fe98a4570ea20553436a.jpeg" group-title="MEXICO",AZTECA 7 
+
+#EXTINF:-1 logo="https://pkimgcdn.peekyou.com/5530e80845d3fe98a4570ea20553436a.jpeg" group-title="MEXICO",AZTECA 7 
+
 #EXTINF:-1 logo="https://destel.mx/wp-content/uploads/2016/04/418.png" group-title="MEXICO",AZTECA 7
-http://tecnotv.club/2ene/geomex.php?c=21&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE HD
-http://tecnotv.club/2ene/geomex.php?c=1783&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE 
+
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/250e53b/2147483647/strip/true/crop/1417x1063+236+0/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fe3%2Fff%2F2f5aee33455cb33634eaa63aea00%2Fnueve-mesa-de-trabajo-1.jpg" group-title="MEXICO",NU9VE
-http://tecnotv.club/2ene/geomex.php?c=24&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://www.m3u.cl/logo/772_Canal_Once_Mexico.png" group-title="MEXICO",ONCE HD 
-http://tecnotv.club/2ene/geomex.php?c=1942&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 logo="https://www.m3u.cl/logo/772_Canal_Once_Mexico.png" group-title="MEXICO",ONCE 
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE
-http://tecnotv.club/2ene/geomex.php?c=25&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://www.mexicoescultura.com/galerias/actividades/principal/once_ninos.jpg" group-title="TV PREMIUM" group-title="MEXICO",ONCE NIÑOS (CLASES)
-http://tecnotv.club/2ene/geomex.php?c=3315&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV HD  
-http://tecnotv.club/2ene/geomex.php?c=2606&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV  
-http://tecnotv.club/2ene/geomex.php?c=2298&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV  
+
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO
-http://tecnotv.club/2ene/geomex.php?c=84&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+ 
-http://tecnotv.club/2ene/geomex.php?c=2316&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmVC5--K7Y0aAXpywAFofm7Mi6or0wKDfWF940R073KLkWxex92zzkMzxavuvxtDOaa0&usqp=CAU" group-title="MEXICO",A+
+
 #EXTINF:-1 logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="MEXICO",TELEFORMULA
-http://tecnotv.club/2ene/geomex.php?c=32&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://lh3.googleusercontent.com/-QoXY7TlxuYw/Xzm9VnZHQBI/AAAAAAAA4hw/eE9OyjF80iAxcb8p_Osvfbf8aktofhxWgCK8BGAsYHg/s0/2020-08-16.png" group-title="MEXICO",MEXIQUENSE TV
-http://tecnotv.club/2ene/geomex.php?c=44&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png" group-title="MEXICO",TVC
-http://tecnotv.club/2ene/geomex.php?c=2156&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Atv.png/revision/latest?cb=20200830194250" group-title="MEXICO",APREDNE TV
-http://tecnotv.club/2ene/geomex.php?c=401&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY
-http://tecnotv.club/2ene/geomex.php?c=2305&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS CDMX S1
-http://tecnotv.club/2ene/geomex.php?c=2352&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS CDMX S2
-http://tecnotv.club/2ene/geomex.php?c=2352&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Multimedios_4.png/revision/latest/scale-to-width-down/250?cb=20210617030329&path-prefix=es" group-title="MEXICO",MULTIMEDIOS HD
-http://tecnotv.club/2ene/geomex.php?c=2882&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Multimedios_4.png/revision/latest/scale-to-width-down/250?cb=20210617030329&path-prefix=es" group-title="MEXICO",MULTIMEDIOS 
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1279877203828883456/BeLTCX05_400x400.jpg" group-title="MEXICO",MVS TV
-http://tecnotv.club/2ene/geomex.php?c=2149&p=3&k=tecnotv&f=.m3u8  
+
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRmmKfO1elXXd35esMKADHT1pwz6e-JLpQrO0Do=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",CANAL 8
-http://tecnotv.club/2ene/geomex.php?c=2307&p=3&k=tecnotv&f=.m3u8  
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgI6xbHmExVW7aX6ZHPBopvpVAI43A4kvQ1g&usqp=CAU" group-title="MEXICO",TELEVISA PUEBLA
-http://tecnotv.club/2ene/geomex.php?c=2312&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1356768413306155009/hxMnjqaM_400x400.jpg" group-title="MEXICO",TVMAS
-http://tecnotv.club/2ene/geomex.php?c=2324&p=3&k=tecnotv&f=.m3u8  
+
 
 
 
@@ -123,43 +123,43 @@ https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png", Latino Kids TV
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST
-http://tecnotv.club/2ene/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS HD
-http://tecnotv.club/2ene/lista1.php?c=a0ak
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS
-http://tecnotv.club/2ene/geomex.php?c=109&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK
-http://tecnotv.club/2ene/android.php?c=123|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC
-http://tecnotv.club/2ene/geomex.php?c=2147&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD
-http://tecnotv.club/2ene/geomex.php?c=111&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", Planetatv Kids
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK HD
-http://tecnotv.club/2ene/lista1.php?c=a05i
+
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK
-http://tecnotv.club/2ene/geomex.php?c=112&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL HD
-http://tecnotv.club/2ene/lista1.php?c=disneyhd
+
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL
-http://tecnotv.club/2ene/geomex.php?c=113&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG)
-http://tecnotv.club/2ene/geomex.php?c=115&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV 
-http://tecnotv.club/2ene/geomex.php?c=116&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR
-http://tecnotv.club/2ene/geomex.php?c=117&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR
-http://tecnotv.club/2ene/geomex.php?c=118&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST
-http://tecnotv.club/2ene/geomex.php?c=1984&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/bDD2PT7.jpg" group-title="INFANTIL",NAT GEO KIDS HD 
-http://tecnotv.club/2ene/lista1.php?c=natgeokidshd
+
 #EXTINF:-1 logo="https://i.imgur.com/bDD2PT7.jpg" group-title="INFANTIL",NAT GEO KIDS  
-http://tecnotv.club/2ene/geomex.php?c=2373&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME HD 
-http://tecnotv.club/2ene/geomex.php?c=2591&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png", Chavo TV | CL
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 
@@ -577,69 +577,69 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1644.ts
 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="NOTICIAS",FOROTV
-http://tecnotv.club/2ene/geomex.php?c=19&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="NOTICIAS",FOROTV HD
-http://tecnotv.club/2ene/geomex.php?c=4&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://radionotas.com/wp-content/uploads/2017/10/ADN-40.jpg" group-title="NOTICIAS",ADN40
-http://tecnotv.club/2ene/geomex.php?c=40&p=3&k=tecnotv&f=.m3u8 
+
 #EXTINF:-1 logo="https://pbs.twimg.com/media/C62AHXzU8AAbEQj.jpg" group-title="NOTICIAS",ADN 40 HD
-http://tecnotv.club/2ene/geomex.php?c=184&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="NOTICIAS",CNN 1
-http://tecnotv.club/2ene/geomex.php?c=186&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="NOTICIAS",CNN 1
 http://regioplay.xyz/php/SR_REGIO_411112_/regiotv2.php?c=12|User-Agent=tuplayer
 #EXTINF:-1 logo="https://img2.freepng.es/20181121/obj/kisspng-logo-cnn-image-television-portable-network-graphic-5bf6227bc1f3e2.2192089715428573397944.jpg" group-title="NOTICIAS",CNN 2
-http://tecnotv.club/2ene/geomex.php?c=185&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="Albania",CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/787px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",CNN Ñ
 http://regioplay.xyz/php/SR_REGIO_411112_/regiotv2.php?c=11|User-Agent=tuplayer
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/787px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",CNN Ñ
-http://tecnotv.club/2ene/geomex.php?c=187&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="Chile",CNN Chile (720p)
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 logo="https://www.biosicurezzaweb.net/wp-content/uploads/2018/01/logo-wobi-890x395_c.png" group-title="NOTICIAS",WOBI 
-http://tecnotv.club/2ene/geomex.php?c=102&p=3&k=tecnotv&f=.m3u8 
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="NOTICIAS",FOX NEWS
-http://tecnotv.club/2ene/geomex.php?c=188&p=3&k=tecnotv&f=.m3u8  
+
 #EXTINF:-1 logo="https://product.statnano.com/resource/amar_university_world/files/images/21/1/thumbnail_c4ca4238a0b923820dcc509a6f75849b281.png" group-title="NOTICIAS",BLOOMBERG 
-http://tecnotv.club/2ene/geomex.php?c=190&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://www.veracruzenred.mx/up-ver/uploads/2020/09/logo_el_financiero.jpg" group-title="NOTICIAS",EL FINANCIERO HD 
-http://tecnotv.club/2ene/geomex.php?c=1649&p=3&k=tecnotv&f=.m3u8 
+
 #EXTINF:-1 logo="https://www.irenetinagli.eu/wp-content/uploads/2020/03/BBC_World_News_red.svg_.png" group-title="NOTICIAS",BBC
-http://tecnotv.club/2ene/geomex.php?c=191&p=3&k=tecnotv&f=.m3u8 
+ 
 #EXTINF:-1 logo="https://www.wola.org/wp-content/uploads/2017/09/AljazeeraLogo-266x300.jpg" group-title="NOTICIAS",AL JAAZERA 
-http://tecnotv.club/2ene/geomex.php?c=192&p=3&k=tecnotv&f=.m3u8  
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="NOTICIAS",NTN 24
-http://tecnotv.club/2ene/geomex.php?c=194&p=3&k=tecnotv&f=.m3u8  
+
 #EXTINF:-1 logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/recurso_1.jpg?JEY8Nx8wo_YqUR.t2ssC9niRQqIKZOiW&itok=LUfkzY_N" group-title="NOTICIAS",JUSTICIA TV 
-http://tecnotv.club/2ene/geomex.php?c=196&p=3&k=tecnotv&f=.m3u8 
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/21/HLN_2017_logo.jpg" group-title="NOTICIAS",HLN
-http://tecnotv.club/2ene/geomex.php?c=197&p=3&k=tecnotv&f=.m3u8 
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="NOTICIAS",RT
-http://tecnotv.club/2ene/geomex.php?c=999&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/RT_ESPANOL_2018.png/revision/latest/scale-to-width-down/250?cb=20191103091047" group-title="NOTICIAS",RT ESPAÑOL
-http://tecnotv.club/2ene/geomex.php?c=2091&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW 
-http://tecnotv.club/2ene/geomex.php?c=203&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://media-cdn.t24.com.tr/media/library/2021/02/1613030823817-110220210206437738460.jpg" group-title="International",Euronews en Español (720p)
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24
-http://tecnotv.club/2ene/geomex.php?c=2402&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 group-title="MÉXICO" tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png",HispanTV Señal 1
 https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="MÉXICO" tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png",HispanTV Señal 2
 https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="NOTICIAS",MILENIO 
-http://tecnotv.club/2ene/geomex.php?c=1252&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="NOTICIAS",MILENIO HD
-http://tecnotv.club/2ene/geomex.php?c=1250&p=3&k=tecnotv&f=.m3u8  
+  
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Excelsior-TV-en-vivo-Online.png" group-title="NOTICIAS",EXCELSIOR TV
-http://tecnotv.club/2ene/geomex.php?c=1449&p=3&k=tecnotv&f=.m3u8  
+  
 #EXTINF:-1 logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/ef/03/37/ef0337e5-a0a4-44a3-edc4-ce7b0ce1035b/source/512x512bb.jpg" group-title="MEXICO",CANAL DEL CONGRESO
-http://tecnotv.club/2ene/geomex.php?c=2331&p=3&k=tecnotv&f=.m3u8 
+ 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png" group-title="PERU",TV Peru Noticias SEÑAL 1
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png", TV Peru Noticias  | PE SEÑAL 2
@@ -669,109 +669,109 @@ http://127.0.0.1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/DIRECTV-SPORTS.jpg" group-title="DEPORTES",Directv Sports 1
-http://tecnotv.club/2ene/sport.php?c=directv&k=tecno&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/DIRECTV-SPORTS.jpg" group-title="DEPORTES",Directv Sports 1
-http://tecnotv.club/2ene/sport.php?c=directv2&k=tecno&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN 
-http://tecnotv.club/2ene/geomex.php?c=169&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2
-http://tecnotv.club/2ene/geomex.php?c=168&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 
-http://tecnotv.club/2ene/geomex.php?c=345&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES",ESPN EXTRA 
-http://tecnotv.club/2ene/geomex.php?c=167&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN SUR
-http://tecnotv.club/2ene/android3.php?c=97|User-Agent=tupro
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 SUR
-http://tecnotv.club/2ene/android3.php?c=96|User-Agent=tupro
+
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 SUR
-http://tecnotv.club/2ene/android3.php?c=95|User-Agent=tupro
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/66/ESPN4_logo.png" group-title="DEPORTES",ESPN 4 SUR
-http://tecnotv.club/2ene/android.php?c=86|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS
-http://tecnotv.club/2ene/geomex.php?c=170&p=3&k=tecnotv&f=.m3u8  
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2
-http://tecnotv.club/2ene/geomex.php?c=172&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 
-http://tecnotv.club/2ene/geomex.php?c=178&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",FOX SPORTS 1 SUR
-http://tecnotv.club/2ene/android3.php?c=76|User-Agent=tupro
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 SUR
-http://tecnotv.club/2ene/android.php?c=87|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 SUR
-http://tecnotv.club/2ene/android3.php?c=72|User-Agent=tupro
+
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN
-http://tecnotv.club/2ene/geomex.php?c=174&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN HD
-http://tecnotv.club/2ene/geomex.php?c=1049&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN USA
-http://tecnotv.club/2ene/sport.php?c=tudn-us&k=tecno&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports
-http://tecnotv.club/2ene/android3.php?c=98|User-Agent=tupro
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032020/win_sport_.jpg?UJIv5b6Z8y29Fb3.N110WFEkJKWE6Rvn&itok=dl41Wxqs" group-title="DEPORTES",WIN SPORTS PLUS SEÑAL
-http://tecnotv.club/2ene/android3.php?c=374|User-Agent=tupro
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN" group-title="DEPORTES",TYC Sports
-http://tecnotv.club/2ene/sport.php?c=tycsports&k=tecno&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/TIGfZjN.jpg" group-title="DEPORTES",AYM SPORTS
-http://tecnotv.club/2ene/geomex.php?c=180&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png", Best Cable Sports | PE
 https://tv.siete.us:19360/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES",ADRENALINA SPORTS
-http://tecnotv.club/2ene/geomex.php?c=1799&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES",UFC
-http://tecnotv.club/2ene/android3.php?c=353|User-Agent=tupro
+
 #EXTINF:-1 logo="https://nrd.es/wp-content/uploads/fight-time.jpg" group-title="DEPORTES",Fight Time
-http://tecnotv.club/2ene/sport.php?c=fight&k=tecno&f=.m3u8
+
 #EXTINF:-1 logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES",LAS
-http://tecnotv.club/2ene/geomex.php?c=2089&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/589b4cd88e68a992ed94d21b544f452ad50b6537a81141169058f5c7d171277f.png" group-title="DEPORTES",HAVOC
-http://tecnotv.club/2ene/geomex.php?c=2148&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",Edge Sport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+https://edgesport-samsunguk.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6f6Gsgg.png" group-title="USA",Nitro Circus
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5VIABPc2GBuRbJTPZCTgf-JLHdKaeue8x-hSeKY92HDxK8ep6u--oyR0ys2c1V1itNmU&usqp=CAU" group-title="DEPORTES",TVC DEPORTES
-http://tecnotv.club/2ene/geomex.php?c=2157&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS
-http://tecnotv.club/2ene/sport.php?c=clarosports&k=tecno&f=.m3u8
+
 #EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS
-http://tecnotv.club/2ene/geomex.php?c=2564&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES",Izzi Afizzionados
-http://tecnotv.club/2ene/sport.php?c=afizzionados&k=tecno&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Gol TV Ecuador" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/BK3RHIMPUNGUVF7MOXSQKVKMAQ.jpg" group-title="DEPORTES",Gol TV 
-http://tecnotv.club/2ene/sport.php?c=goltv&k=tecno&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/BK3RHIMPUNGUVF7MOXSQKVKMAQ.jpg" group-title="DEPORTES",Gol TV INTERNACIONAL
-http://tecnotv.club/2ene/android3.php?c=338|User-Agent=tupro
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES",Tigo Sports 1
-http://tecnotv.club/2ene/android3.php?c=339|User-Agent=tupro
+
 #EXTINF:-1 logo="https://i.pinimg.com/originals/5c/72/a6/5c72a626639831531789ea2d91ed3b86.jpg" group-title="DEPORTES",Tigo Sports 2
-http://tecnotv.club/2ene/android3.php?c=340|User-Agent=tupro
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN_400x400.jpg" group-title="DEPORTES",Tigo Sports 3
-http://tecnotv.club/2ene/android3.php?c=341|User-Agent=tupro
+
 EXTINF:-1 tvg-id="" tvg-name=" Real Madrid TV" tvg-logo="https://as00.epimg.net/img/comunes/fotos/fichas/equipos/large/1.png" group-title="DEPORTES", Real Madrid TV
-http://tecnotv.club/2ene/android3.php?c=352|User-Agent=tupro
+
 #EXTINF:-1 tvg-id="" tvg-name="Movistar deportes peru" tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="DEPORTES",Movistar LA LIGA
-http://tecnotv.club/2ene/sport.php?c=mlaliga&k=tecno&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Liga De Campeones" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg?fit=300%2C236&ssl=1" group-title="DEPORTES",Liga De Campeones
-http://tecnotv.club/2ene/sport.php?c=mligadec&k=tecno&f=.m3u8
+
 EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmdo90l5LX-3wTKL2x2EvfyHFnhinC8XsWpjr4d7OuFF0eh9sPrXRotBYeN7AlGKghM0&usqp=CAU" group-title="DEPORTES",Bein sports ñ T Es
-http://tecnotv.club/2ene/android3.php?c=343|User-Agent=tupro
+
 #EXTINF:-1 tvg-id="" tvg-name="Bein sports LAT" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEIN.png" group-title="DEPORTES",Bein sports US
-http://tecnotv.club/2ene/sport.php?c=beinhd&k=tecno&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2020/04/MLS-Logo-White-1.png" group-title="USA",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 logo="https://www.koamnewsnow.com/content/uploads/2020/04/NFL-logo.jpg" group-title="DEPORTES",NFL NETWORK
-http://tecnotv.club/2ene/sport.php?c=nfl&k=tecno&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://2.bp.blogspot.com/-0wlOLgIzZWU/W2vkaoVLICI/AAAAAAAAqyA/7kqKVQMbsFQ8SOg--yrVdrmeMr4uVEW2ACLcBGAs/s1600/plugin-addon-redbulltv.png" group-title="DEPORTES",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Algeria",Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8JATjECvwTxZVkdyWM0nCslG_XTHeA-wjK6eyf9zgb1TElKqu2Gd3NzD5GyeCmytp-s&usqp=CAU" group-title="DEPORTES",FUEL TV HD 
-http://tecnotv.club/2ene/geomex.php?c=2587&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/qyrzMjg.jpg" group-title="DEPORTES",GOLF
-http://tecnotv.club/2ene/geomex.php?c=179&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="DEPORTES",MLB
-http://tecnotv.club/2ene/android3.php?c=349|User-Agent=tupro
+
 
 
 
@@ -853,21 +853,21 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1642.ts
 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="ENTRETENIMIENTO",MTV LIVE
-http://tecnotv.club/2ene/geomex.php?c=211&p=3&k=tecnotv&f=.m3u8  
+  
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png" group-title="MUSICA",MTV HITS SD
-http://tecnotv.club/2ene/geomex.php?c=213&p=3&k=tecnotv&f=.m3u8  
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/dreamlogos/images/6/6c/MTV_80s_logo.png/revision/latest?cb=20200803222602" group-title="MUSICA",MTV 80s SD
-http://tecnotv.club/2ene/geomex.php?c=214&p=3&k=tecnotv&f=.m3u8 
+
 #EXTINF:-1 logo="https://pbs.twimg.com/media/E7wQ4ODXEAYFhvf.jpg" group-title="MUSICA",MTV 00s SD 
-http://tecnotv.club/2ene/geomex.php?c=334&p=3&k=tecnotv&f=.m3u8  
+ 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-1UqqANzisgQ/X07eF2zwTqI/AAAAAAAA6Sc/5--4-WH6ZCY9YW7T2Xarwe1E7S6oiBLCACLcBGAsYHQ/s360/telehit-musica-2020.png" group-title="MUSICA",TELEHIT MUSICA
-http://tecnotv.club/2ene/geomex.php?c=218&p=3&k=tecnotv&f=.m3u8 
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLtACAzQWPN38Dn1nLoXIvdI7YweMMDWa08JrJnqOlGoQ1W5jA-DdmMuERzhf2nOEqkk&usqp=CAU" group-title="MUSICA",TELEHIT MUSICA +
-http://tecnotv.club/2ene/geomex.php?c=220&p=3&k=tecnotv&f=.m3u8  
+
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-IPFY-GqGtX4/X00fOJ4MOsI/AAAAAAAAAfI/h9kSvx_pLSMl8g3ukbPZDdxN_wR5563EwCLcBGAsYHQ/s1600/nickmusic%2Btvlaint.jpg" group-title="INFANTIL",NIC MUSIC 
-http://tecnotv.club/2ene/geomex.php?c=1708&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 logo="https://images.produ.com/noticias/0317/big-Bandamax.jpg" group-title="MUSICA",BANDAMAX SD
-http://tecnotv.club/2ene/geomex.php?c=221&p=3&k=tecnotv&f=.m3u8
+
 
 
 
@@ -1052,6 +1052,7 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 https://videostreaming.cloudserverlatam.com:443/CLOUDFM/CLOUDFM/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dancestar.tv/images/swirl_2.jpg" group-title="USA",Dancestar TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+
 
 
 
