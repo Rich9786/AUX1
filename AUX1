@@ -56,7 +56,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY
 http://regioplay.xyz/php/SR_REGIO_101022_/multimedios.php?f=.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTkmtkcBKvUasd92oG42XN-gsSGgODxw3j5nFrmOg=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTkmtkcBKvUasd92oG42XN-gsSGgODxw3j5nFrmOg=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
 
@@ -93,7 +93,7 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - TV
 http://45.181.122.17:8000/play/a02m
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - TV
-http://45.181.122.17:8000/play/a00k
+http://45.181.122.17:8000/play/a00j
 #EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR
 http://45.181.122.17:8000/play/a00e
 #EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - TV
