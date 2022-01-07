@@ -44,6 +44,8 @@ http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=27&p=3&k=srregio&f=.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO S2 - ANDR
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=135|User-Agent=tuplayer
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",AZTECA UNO S3 - ANDR
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=170|User-Agent=tuplayer
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - TV
 http://45.181.122.17:8000/play/a00y
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",LAS ESTRELLAS - MX
@@ -183,8 +185,10 @@ http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=18|User-Agent=tuplayer
 http://45.181.122.17:8000/play/a00j
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG)
+#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=115&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - ANDR
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=176|User-Agent=tuplayer
 #EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=116&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - TV
@@ -347,12 +351,14 @@ http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=146|User-Agent=tuplayer
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xn35v8c.png" group-title="Mundo", Univision - ANDR
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=102|User-Agent=tuplayer
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol TV - ANDR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="ENTRETENIMIENTO", Caracol TV - ANDR
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=16|User-Agent=tuplayer
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol Internacional - ANDR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="ENTRETENIMIENTO", Caracol Internacional - ANDR
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=17|User-Agent=tuplayer
-#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/fc/da/35/fcda35dd-b6d7-0dc2-bc24-aa20995cd139/source/256x256bb.jpg" group-title="Mundo",NET TV
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/fc/da/35/fcda35dd-b6d7-0dc2-bc24-aa20995cd139/source/256x256bb.jpg" group-title="ENTRETENIMIENTO",NET TV - ANDR
 http://regioplay.xyz/php/SR_REGIO_101022_/nettv.php?f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="ENTRETENIMIENTO",TV Peru - ANDR
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=191|User-Agent=tuplayer
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="ENTRETENIMIENTO",GLITZ - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=76&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="ENTRETENIMIENTO",GLITZ - ANDR
@@ -391,6 +397,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.
 https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO",TL NOVELAS - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=83&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO",TL NOVELAS - ANDR
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=169|User-Agent=tuplayer
 #EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=70&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - ANDR
@@ -557,10 +565,14 @@ http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=123&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=67|User-Agent=tuplayer
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="CINE",GOLDEN + - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=122&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="CINE",GOLDEN + - ANDR
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=183|User-Agent=tuplayer
 #EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",G-EDGE - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=124&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",Golden Premium - ANDR
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",Golden Premium S1 - ANDR
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=66|User-Agent=tuplayer
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",Golden Premium S2 - ANDR
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=184|User-Agent=tuplayer
 #EXTINF:-1 tvg-logo="https://de87l2nqb95zo.cloudfront.net/056a82e3-8d2a-4c02-a613-a4d7edb31147.png" group-title="LATIN AMERICA",Moovimex
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://www.m3u.cl/logo/1055_Mega_Cine_TV.png", Mega Cine TV 
@@ -613,6 +625,8 @@ http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=19|User-Agent=tuplayer
 http://45.181.122.17:8000/play/a009
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=158&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX - ANDR
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=171|User-Agent=tuplayer
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI.jpg" group-title="CINE",FXM - TV
 http://45.181.122.17:8000/play/a01a
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI.jpg" group-title="CINE",FXM - MX
@@ -824,9 +838,12 @@ http://127.0.0.1
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/DIRECTV-SPORTS.jpg" group-title="DEPORTES",Directv Sports 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/DIRECTV-SPORTS.jpg" group-title="DEPORTES",Directv Sports 1
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=187|User-Agent=tuplayer
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes", DIRECTV SPORT 2
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=188|User-Agent=tuplayer
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes", DIRECTV SPORT PLUS
 
 #EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN - TV
 http://45.181.122.17:8000/play/a00q
@@ -885,7 +902,7 @@ http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=174&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN HD - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=1049&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN USA
-
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=190|User-Agent=tuplayer
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deportes", GOLTV - TV
 http://45.181.122.17:8000/play/a031
 #EXTINF:-1 tvg-logo="https://futbolete.com/wp-content/uploads/2021/06/TNT-Sports-en-Brasil-transmitira-amistosos-de-selecciones-europeas-en-TikTok-1200x900.jpg" group-title="Paises", Chile | TNT Sports 3 - TV 
@@ -937,7 +954,7 @@ EXTINF:-1 tvg-id="" tvg-name=" Real Madrid TV" tvg-logo="https://as00.epimg.net/
 #EXTINF:-1 tvg-id="" tvg-name="Liga De Campeones" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg?fit=300%2C236&ssl=1" group-title="DEPORTES",Liga De Campeones
 
 EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmdo90l5LX-3wTKL2x2EvfyHFnhinC8XsWpjr4d7OuFF0eh9sPrXRotBYeN7AlGKghM0&usqp=CAU" group-title="DEPORTES",Bein sports ñ T Es
-
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=185|User-Agent=tuplayer
 #EXTINF:-1 tvg-id="" tvg-name="Bein sports LAT" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEIN.png" group-title="DEPORTES",Bein sports US
 
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2020/04/MLS-Logo-White-1.png" group-title="USA",MLS
@@ -1054,10 +1071,15 @@ http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=100|User-Agent=tuplayer
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=218&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLtACAzQWPN38Dn1nLoXIvdI7YweMMDWa08JrJnqOlGoQ1W5jA-DdmMuERzhf2nOEqkk&usqp=CAU" group-title="MUSICA",TELEHIT MUSICA + - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=220&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-IPFY-GqGtX4/X00fOJ4MOsI/AAAAAAAAAfI/h9kSvx_pLSMl8g3ukbPZDdxN_wR5563EwCLcBGAsYHQ/s1600/nickmusic%2Btvlaint.jpg" group-title="INFANTIL",NIC MUSIC 
-
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLtACAzQWPN38Dn1nLoXIvdI7YweMMDWa08JrJnqOlGoQ1W5jA-DdmMuERzhf2nOEqkk&usqp=CAU" group-title="MUSICA",TELEHIT MUSICA + - ANDR
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=179|User-Agent=tuplayer
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-IPFY-GqGtX4/X00fOJ4MOsI/AAAAAAAAAfI/h9kSvx_pLSMl8g3ukbPZDdxN_wR5563EwCLcBGAsYHQ/s1600/nickmusic%2Btvlaint.jpg" group-title="INFANTIL",NIC MUSIC - ANDR
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=172|User-Agent=tuplayer
 #EXTINF:-1 logo="https://images.produ.com/noticias/0317/big-Bandamax.jpg" group-title="MUSICA",BANDAMAX - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=221&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 logo="https://images.produ.com/noticias/0317/big-Bandamax.jpg" group-title="MUSICA",BANDAMAX - ANDR
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=173|User-Agent=tuplayer
+
 
 
 
