@@ -569,10 +569,10 @@ http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=140&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=123&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN S1- ANDR
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=67|User-Agent=tuplayer
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN S2- ANDR
-http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=183|User-Agent=tuplayer
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="CINE",GOLDEN + - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=122&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="CINE",GOLDEN + - ANDR
+http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=183|User-Agent=tuplayer
 #EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",G-EDGE - MX
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=124&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",Golden Premium S1 - ANDR
